@@ -1,2 +1,2 @@
-# sudoku
-Make a sudoko application with scenebuilder
+# Java
+Where I practice my javaskills in VSCode.
